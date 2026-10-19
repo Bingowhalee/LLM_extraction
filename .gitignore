@@ -3,6 +3,8 @@ data/
 *.csv
 *.parquet
 *.duckdb
+*.pdf
 .ipynb_checkpoints/
 __pycache__/
 .env
+.DS_Store
