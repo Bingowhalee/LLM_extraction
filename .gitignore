@@ -4,5 +4,5 @@ data/
 *.parquet
 *.duckdb
 .ipynb_checkpoints/
-__pychache__/
+__pycache__/
 .env
